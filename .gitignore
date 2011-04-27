@@ -30,3 +30,7 @@ config/deploy.rb
 perf/*.rb
 gem_graph.png
 sites/
+*.swp
+*.swn
+*.swo
+
